@@ -2,4 +2,8 @@ Git remote hates you
 reference:
 http://debuggable.com/posts/git-remote-hates-you-1:4b01c0c5-efbc-4bed-b39d-70f1cbdd56cb
 
-bumped to 1.2
+Installation Gitflow Tools
+wget --no-check-certificate -q -O - \
+https://github.com/nvie/gitflow/raw/develop/contrib/gitflow-installer.sh \
+ | sudo bash
+
